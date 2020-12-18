@@ -1,0 +1,2 @@
+# Hey ricky!
+print("Hello")
